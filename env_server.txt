@@ -1,0 +1,10 @@
+DATABASE_URL=postgresql+psycopg2://wapli:wapli_secret_2024@localhost:5432/whatsapp_agent
+ANTHROPIC_API_KEY=placeholder-temporal
+AGENT_MODEL=claude-sonnet-4-6
+WHATSAPP_TOKEN=PENDIENTE
+WHATSAPP_API_VERSION=v21.0
+WHATSAPP_VERIFY_TOKEN=mi-token-secreto
+PUBLIC_BASE_URL=https://wapli.net
+WOMPI_BASE_URL=https://sandbox.wompi.co/v1
+WOMPI_PRIVATE_KEY=prv_test_xxxxxxxx
+WOMPI_PUBLIC_KEY=pub_test_xxxxxxxx
